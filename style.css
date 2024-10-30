@@ -65,7 +65,10 @@ nav .links a {
 	color: #fff;
 	text-decoration: none;
 }
-
+nav .links a{
+	text-decoration: underline;
+	transition: ease 0.3s;
+}
 .post {
   border: 1px solid #ddd;
   margin-bottom: 20px;
