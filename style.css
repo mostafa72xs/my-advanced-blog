@@ -65,7 +65,7 @@ nav .links a {
 	color: #fff;
 	text-decoration: none;
 }
-nav .links a{
+nav .links a:hover {
 	text-decoration: underline;
 	transition: ease 0.3s;
 }
